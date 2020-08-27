@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Brain2Life](https://avatars1.githubusercontent.com/u/30049303?s=460&v=4)
