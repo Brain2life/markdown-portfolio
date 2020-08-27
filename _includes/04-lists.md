@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+List of favorite books:
+- Crime and Punishment
+- Spartacus
+- 1984
